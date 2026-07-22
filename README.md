@@ -1,7 +1,7 @@
-## Hi there 👋
 
- 💫 About Me:
-I am Studying at University of Central Punjab.<br>I am doing BS Software Engineering.<br>I am fluent in making Websites and Mobile Applications.
+
+Hi there! 👋 I’m a passionate Web and App Developer who loves building clean, modern, and high-performing digital solutions that bring ideas to life.
+I specialize in crafting responsive websites and mobile apps that are not only fast but also visually stunning and user-friendly.
 
 
 # 💻 Tech Stack:
